@@ -1,0 +1,34 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button {
+  margin: 1.25rem;
+  padding: 0.5rem 1rem;
+  border-radius: 0.3rem;
+  border-style: none;
+  font-size: 1rem;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  margin: auto;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  border: 4px solid #6b7280;
+  width: 40%;
+  border-radius: 1rem;
+}
+
+#movie-title {
+  font-size: large;
+  margin: 0.5rem 0rem;
+}
+
+#movie-rating {
+  font-size: 1rem;
+}
